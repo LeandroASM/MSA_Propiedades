@@ -1,1 +1,3 @@
-primer-proyecto
+
+Primer proyecto de Leandro Arias y Daniel Arias
+
