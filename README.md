@@ -1,2 +1,1 @@
-# primer-proyecto
-dsdfdsfsf
+Primer proyecto de Leandro Arias y Daniel Arias
